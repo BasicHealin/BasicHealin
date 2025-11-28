@@ -1,36 +1,61 @@
-### Hi there 👋
+### 👋 Hello! A.hamid here, you might know me as BasicHealin
 
-Frontend Developer
+Frontend & Mobile Developer
 
 ```javascript
-const basicHealin = {
-  pronouns: "he" | "him",
+const basic-healin = {
   location: "Casablanca, Morocco 🇲🇦",
+  experience: "8+ years",
   code: ["JavaScript", "TypeScript"],
   technologies: {
-    frontend: ["React", "Next.js", "React Native", "Tailwind CSS"],
+    frontend: [
+      "React.js", "Next.js", "React Native",
+      "Redux", "Redux Saga", "Redux Thunk", "Context API", "Zustand",
+      "React Query", "React Router", "Formik", "React Hook Form"
+    ],
+    styling: ["Tailwind CSS", "Styled Components", "CSS3", "JSX", "HTML"],
     backend: ["Node.js"],
-    databases: ["MongoDB", "PostgreSQL"],
-    tools: ["Git", "Algolia", "Google Analytics", "New Relic"]
+    databases: ["MongoDB", "PostgreSQL", "SQL Server"],
+    testing: ["Jest", "React Testing Library"],
+    tools: ["NPM", "YARN", "Git"],
+    analytics: ["Google Analytics", "New Relic", "Hotjar"],
+    search: ["Algolia"],
+    cms: ["Magento"]
   },
-  architecture: ["component-driven", "server-side rendering", "microservices", "responsive design"],
-  funFact: "I speak French, English, and Arabic fluently",
+  architecture: [
+    "component-driven", "server-side rendering", "microservices",
+    "responsive design", "Role-Based Access Control (RBAC)", "PIM integration"
+  ],
+  methodology: ["Agile", "Scrum"],
+  sectors: [
+    "E-commerce & Marketplace",
+    "Retail Operations & Logistics",
+    "Banking & Financial Services",
+    "Insurance",
+    "Consulting & Human Resources",
+    "Mobile App Development"
+  ],
+  passions: ["Web Performance", "Mobile Development", "User Experience", "Clean Code"],
+  funFact: "I speak Arabic, French, and English fluently",
+  challenge: "Building scalable e-commerce solutions with SSR/ISR & advanced caching strategies"
 };
 ```
 
 #### 🚀 What I'm up to
 
-- 💼 Building the [Marjane Mall](https://marjanemall.ma) e-commerce platform
-- 🎯 Implementing SEO strategies and analytics solutions
-- 🌱 Always learning and exploring new frontend technologies
+- 💼 Building [Marjane Mall](https://marjanemall.ma) marketplace (web & mobile)
+- 📱 Developing end-to-end mobile solutions connecting sellers and customers
+- ⚡ Implementing performance patterns (SSR/ISR, caching, CDN, code-splitting)
+- 🏗️ Architecting seller back-office systems with RBAC and operational analytics
+- 🔧 Creating retail operations tools for unified sales and execution processes
+- 🌱 Always exploring new technologies and best practices
 
 #### 🌐 Languages
 
-**French** • **English** • **Arabic**
-
+**Arabic** • **French** • **English**
 
 ---
 
 I love connecting with fellow developers and tech enthusiasts, so if you want to say hi or collaborate, feel free to reach out! 😊
 
-![Profile Views](https://komarev.com/ghpvc/?username=BasicHealin&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
