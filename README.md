@@ -47,7 +47,7 @@ const basic-healin = {
 
 #### 🚀 What I'm up to
 
-- 💼 Building [Marjane Mall](https://marjanemall.ma) marketplace (web & mobile)
+- 💼 Building marketplace (web & mobile)
 - 📱 Developing end-to-end mobile solutions connecting sellers and customers
 - ⚡ Implementing performance patterns (SSR/ISR, caching, CDN, code-splitting)
 - 🏗️ Architecting seller back-office systems with RBAC and operational analytics
