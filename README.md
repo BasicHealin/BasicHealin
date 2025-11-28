@@ -28,11 +28,6 @@ const basicHealin = {
 
 **French** • **English** • **Arabic**
 
----
-
-#### 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BasicHealin&theme=react-dark&hide_border=true&area=true)
 
 ---
 
