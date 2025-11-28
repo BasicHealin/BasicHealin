@@ -30,6 +30,12 @@ const basicHealin = {
 
 ---
 
+#### 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BasicHealin&theme=react-dark&hide_border=true&area=true)
+
+---
+
 I love connecting with fellow developers and tech enthusiasts, so if you want to say hi or collaborate, feel free to reach out! 😊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BasicHealin&color=blue&style=flat-square)
