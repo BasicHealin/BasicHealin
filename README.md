@@ -9,6 +9,7 @@
 ```javascript
 const basic-healin = {
   location: "Casablanca, Morocco 🇲🇦",
+  linkedin: "/in/abdelhamidbounsir/",
   experience: "8+ years",
   code: ["JavaScript", "TypeScript"],
   technologies: {
