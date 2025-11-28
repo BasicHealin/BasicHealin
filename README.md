@@ -1,6 +1,8 @@
-### 👋 Hello! A.hamid here, you might know me as BasicHealin
+### 👋 Hello! Abdelhamid here, you might know me as BasicHealin
 
-Frontend & Mobile Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Frontend+%26+Mobile+Developer;8%2B+Years+of+Experience;React+%7C+Next.js+%7C+React+Native;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
 ```javascript
 const basic-healin = {
