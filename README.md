@@ -1,18 +1,35 @@
-## Hi there 👋
+### Hi there 👋
 
+Frontend Developer
 
+```javascript
+const basicHealin = {
+  pronouns: "he" | "him",
+  location: "Casablanca, Morocco 🇲🇦",
+  code: ["JavaScript", "TypeScript"],
+  technologies: {
+    frontend: ["React", "Next.js", "React Native", "Tailwind CSS"],
+    backend: ["Node.js"],
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "Algolia", "Google Analytics", "New Relic"]
+  },
+  architecture: ["component-driven", "server-side rendering", "microservices", "responsive design"],
+  funFact: "I speak French, English, and Arabic fluently",
+};
+```
 
-<!--
-**BasicHealin/BasicHealin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 What I'm up to
 
-Here are some ideas to get you started:
+- 💼 Building the [Marjane Mall](https://marjanemall.ma) e-commerce platform
+- 🎯 Implementing SEO strategies and analytics solutions
+- 🌱 Always learning and exploring new frontend technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 Languages
+
+**French** • **English** • **Arabic**
+
+---
+
+I love connecting with fellow developers and tech enthusiasts, so if you want to say hi or collaborate, feel free to reach out! 😊
+
+![Profile Views](https://komarev.com/ghpvc/?username=BasicHealin&color=blue&style=flat-square)
