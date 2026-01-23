@@ -23,7 +23,8 @@ const basic-healin = {
     databases: ["MongoDB", "PostgreSQL", "SQL Server"],
     testing: ["Jest", "React Testing Library"],
     tools: ["NPM", "YARN", "Git"],
-    analytics: ["Google Analytics", "New Relic", "Hotjar"],
+    analytics: ["Google Analytics", "Hotjar"],
+    monitoring: ["New Relic"],
     search: ["Algolia"],
     cms: ["Magento"]
   },
