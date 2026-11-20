@@ -45,7 +45,7 @@ const basicHealin = {
     "Mobile App Development"
   ],
   passions: ["Web Performance", "Mobile Development", "User Experience", "Clean Code"],
-  funFact: "If it works on my machine, it works everywhere — thanks to Docker.,
+  funFact: "If it works on my machine, it works everywhere — thanks to Docker.",
   challenge: "Scaling high-traffic web & mobile apps for performance and reliability"
 };
 ```
